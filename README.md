@@ -3,6 +3,11 @@
 ## Tổng quan dự án
 CineBook là một hệ thống đặt vé xem phim trực tuyến hiện đại, mang đến trải nghiệm tiện lợi cho người dùng và cung cấp công cụ quản lý toàn diện cho quản trị viên (Admin). Điểm nổi bật của CineBook là việc tích hợp **Trợ lý ảo AI (CineBot)**, giúp người dùng dễ dàng tìm kiếm phim, tra cứu suất chiếu và thực hiện đặt vé thông qua ngôn ngữ tự nhiên.
 
+
+https://github.com/user-attachments/assets/83c81285-8dd0-4eae-903e-6db6c00a6580
+
+
+
 ## Kiến trúc hệ thống
 Hệ thống được chia làm hai phần chính:
 - **Frontend:** Xây dựng bằng `Node.js` + `Express.js`, sử dụng View Engine `EJS` để render giao diện Server-side. Giao diện được thiết kế bằng `TailwindCSS` mang lại phong cách hiện đại (Modern UI) và đáp ứng tốt trên các thiết bị di động.
